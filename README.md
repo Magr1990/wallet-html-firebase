@@ -35,7 +35,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio** (o descargar los archivos):
     ```bash
-    git clone https://github.com/MiguelGonzalezRoblero/wallet-chile.git
+    git clone https://github.com/Magr1990/wallet-html-firebase.git
     ```
 
 2.  **Configurar Firebase**:
