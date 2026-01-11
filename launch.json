@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "Lanzar Chrome (Live Server)",
             "url": "http://localhost:5500/login.html", 
-            "webRoot": "${workspaceFolder}",
+            "webRoot": "${workspaceFolder}"
         },
         {
             "type": "chrome",
